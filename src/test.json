@@ -1,0 +1,40 @@
+{
+    "people": [
+      {
+        "id": 1,
+        "name": "Alice Smith",
+        "email": "alice.smith@example.com",
+        "contact": "+1111111111",
+        "numbers": [10, 20, 30, 40, 50]
+      },
+      {
+        "id": 2,
+        "name": "Bob Johnson",
+        "email": "bob.johnson@example.com",
+        "contact": "+2222222222",
+        "numbers": [11, 22, 33, 44, 55]
+      },
+      {
+        "id": 3,
+        "name": "Eva Brown",
+        "email": "eva.brown@example.com",
+        "contact": "+3333333333",
+        "numbers": [12, 24, 36, 48, 60]
+      },
+      {
+        "id": 4,
+        "name": "David Lee",
+        "email": "david.lee@example.com",
+        "contact": "+4444444444",
+        "numbers": [13, 26, 39, 52, 65]
+      },
+      {
+        "id": 5,
+        "name": "Sophia Garcia",
+        "email": "sophia.garcia@example.com",
+        "contact": "+5555555555",
+        "numbers": [14, 28, 42, 56, 70]
+      }
+    ]
+  }
+  
