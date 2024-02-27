@@ -1,5 +1,5 @@
 import React from 'react';
-import Todo from './Todo';
+import Counter from './Counter';
 
 function App() {
 
@@ -7,7 +7,7 @@ function App() {
   
     return (
         <div>
-            <Todo/>
+            <Counter/>
             
         </div>
     );
